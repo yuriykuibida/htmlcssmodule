@@ -1,0 +1,58 @@
+body{
+    text-align: justify;
+}
+h1{
+    font-family: Impact;
+    font-size: 50px;
+    letter-spacing: 1.7px;
+    text-align: center;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about{
+    font-size: 18px;
+    background-color: #2bb5d9;
+}
+
+.name{
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.members{
+    list-style: none;
+    padding: 20px;
+    background-color: purple;
+}
+
+.singer{
+    padding: 10px;
+    background-color: #af70af;
+    margin: 2px;
+}
+
+.albums span{
+    font-style: italic;
+}
+
+.singles{
+    list-style: none;
+    padding: 20px;
+    background-color: #0fc8ce;
+}
+
+.singles a{
+    font-size: 18px;
+    background-color: #fdfdfd;
+    margin: 2px;
+    color: black;
+}
+
+.singles a:hover {
+    color: #0fc8ce;
+}

@@ -1,0 +1,246 @@
+.first{
+
+    height: 600px;
+    width: 50%;
+
+}
+
+
+.a{
+    background-color: #5e0202;
+    height: 35%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstbc{
+
+    height: 65%;
+    width: 100%;
+    display: flex;
+}
+
+.b{
+    background-color: #006969;
+    width: 70%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.c{
+    background-color: #540254;
+    width: 30%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.alltwo{
+    height: 900px;
+    width: 45%;
+}
+
+#header{
+    background-color: #5e0202;
+    height: 15%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.twoone{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    margin-bottom: 5px;
+
+}
+
+#menu{
+    background-color: coral;
+    height: 100%;
+    width: 30%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.posttwo{
+    height: 100%;
+    width: 70%;
+    box-sizing: border-box;
+
+
+}
+.post{
+    background-color: #224901;
+    height: 50%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+
+}
+#footer{
+    background-color: #0fc8ce;
+    height: 15%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.twotwo{
+
+    height: 700px;
+    width: 30%;
+
+}
+
+.widgets{
+    background-color: dodgerblue;
+    height: 25%;
+    width: 100%;
+    margin-bottom: 5px;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigwidgets{
+    display: flex;
+    height: 25%;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 5px;
+
+}
+
+.bw{
+    background-color: dodgerblue;
+    height: 100%;
+    width: 30%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.contact{
+    background-color: dodgerblue;
+    height: 50%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagetwo{
+
+    height: 900px;
+    width: 900px;
+}
+.header{
+    background-color: blue;
+    height: 15%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav{
+    background-color: skyblue;
+    height: 15%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainaside{
+    display: flex;
+    background-color: dodgerblue;
+    height: 55%;
+    width: 100%;
+}
+
+.main{
+    background-color: dodgerblue;
+    height: 100%;
+    width: 80%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+}
+
+.aside{
+    background-color: darkslateblue;
+    height: 100%;
+    width: 20%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer{
+    background-color: deepskyblue;
+    height: 15%;
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    color: #fdfdfd;
+    justify-content: center;
+    align-items: center;
+
+}

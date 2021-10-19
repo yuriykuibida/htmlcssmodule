@@ -1,0 +1,138 @@
+.imagethree{
+
+    height: 700px;
+    width: 1200px;
+}
+
+.athree{
+    background-color: #0fc8ce;
+    height: 30%;
+    width: 100%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}
+
+.otherthree{
+    height: 69%;
+    width: 100%;
+    display: flex;
+}
+
+.bcdethree{
+
+    height: 100%;
+    width: 79%;
+    margin-right: 1%;
+
+}
+
+.fthree{
+    background-color: #0fc8ce;
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}
+
+.bthree{
+    background-color: #0fc8ce;
+    height: 49%;
+    width: 100%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}
+
+.cdethree{
+
+    height: 49%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cthree{
+    background-color: #0fc8ce;
+    height: 100%;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}
+
+.afour{
+    background-color: #cb6440;
+}
+
+.cdefour{
+    margin-bottom: 1%;
+}
+
+.imagesix{
+
+    height: 900px;
+    width: 600px;
+}
+
+.firstblock{
+
+    height: 49%;
+    width: 100%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondblock{
+    background-color: cornflowerblue;
+    height: 25%;
+    width:100%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}
+
+.thirdblock{
+
+    height: 25%;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.home{
+    background-color: cornflowerblue;
+    height: 100%;
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}
+
+.kabobs{
+    background-color: cornflowerblue;
+    height: 100%;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #fdfdfd;
+}

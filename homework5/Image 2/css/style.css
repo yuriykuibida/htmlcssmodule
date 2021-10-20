@@ -1,0 +1,48 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.design{
+    font-size: 25px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.w100{
+    width: 100%;
+}
+
+.container__header{
+    height: 200px;
+    background-color: dodgerblue;
+}
+
+.container__nav{
+    height: 150px;
+    background-color: blue;
+}
+
+.container__content{
+    display: flex;
+    height: 600px;
+}
+
+.container__content__main{
+    height: 100%;
+    width: 80%;
+    background-color: deepskyblue;
+}
+
+.container__content__aside{
+    height: 100%;
+    width: 20%;
+    background-color: mediumpurple;
+}
+
+.container__footer{
+    height: 175px;
+    background-color: skyblue;
+}

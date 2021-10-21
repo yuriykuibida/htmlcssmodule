@@ -1,0 +1,143 @@
+.container{
+    background-color: silver;
+    width: 900px;
+    margin: 0 auto;
+    height: 650px;
+    box-sizing: border-box;
+    padding-top: 5px;
+}
+
+.bgsinlver{
+    background-color: silver;
+}
+
+.bgdark{
+    background-color: #00364d;
+}
+
+.container__header{
+    margin: 5px 15px 10px 20px;
+    border: 3px solid aqua;
+    border-radius: 30px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container__header__title{
+    width: 130px;
+    height: 15px;
+    margin: 30px 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5px;
+}
+
+.container__header__title__first{
+    height: 50%;
+    width: 70%;
+    border-radius: 25px;
+}
+
+.container__header__title__second{
+    height: 50%;
+    flex-grow: 1;
+    border-radius: 25px;
+}
+
+.container__header__content{
+    margin: 25px 25px 20px;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container__header__content__box{
+    height: 180px;
+    width: 170px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+}
+
+.container__header__content__box__upper{
+    height: 150px;
+    width: 170px;
+    border-radius: 15px;
+}
+.container__header__content__box__lower{
+    height: 15px;
+    width: 130px;
+    display: flex;
+    column-gap: 5px;
+    margin: 0 auto;
+}
+
+.container__footer{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.container__footer__block{
+    height: 250px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 12px;
+
+}
+
+.container__footer__block__image{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+
+.w170{
+    width: 170px;
+}
+
+.br20{
+    border-radius: 20px;
+}
+
+.container__footer__block__title{
+    margin-top: 10px;
+    height: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container__footer__block__description{
+    height: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.border{
+    border: 3px solid aqua;
+}
+
+.container__footer__block__title__up{
+    height: 100%;
+    width: 48%;
+}
+
+.container__footer__block__description__element{
+    height: 100%;
+    width: 32%;
+}

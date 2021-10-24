@@ -39,6 +39,10 @@
         margin: 30px 30px;
     }
 
+    .info__button a:hover{
+        color: #a31e8f;;
+    }
+
     .content{
         height: auto;
 
@@ -175,6 +179,10 @@
 
     .info__description{
         margin: 30px 30px;
+    }
+
+    .info__button a:hover{
+        color: #a31e8f;;
     }
 
     .content{

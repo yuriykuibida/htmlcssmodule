@@ -256,5 +256,21 @@
     .aqua{
         color: #a31e8f;
     }
+
+    .content__block{
+        border: 3px solid #a31e8f;
+    }
+    .bordeline{
+        border: 3px solid #a31e8f;
+    }
+    .cards__item__element{
+        border: 3px solid #a31e8f;
+    }
+    .cards__item__element__bottom {
+        border-top: 3px solid #a31e8f;
+    }
+    .footer__border{
+        border: 1px solid #a31e8f;;
+    }
 }
 

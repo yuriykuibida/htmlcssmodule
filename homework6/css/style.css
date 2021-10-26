@@ -1,0 +1,247 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Tinos', serif;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.block {
+    width: 1440px;
+    height: 1021px;
+    margin: 0 auto;
+}
+
+.wrapper{
+    padding: 50px 165px 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 800px;
+    width: 1440px;
+    background: url("../img/hero image.jpg") no-repeat center/cover;
+}
+
+.header__navigation{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__info{
+    display: flex;
+    margin-top: 9px;
+    justify-content: space-between;
+}
+
+.nav{
+    padding-right: 15px;
+    height: 51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 23px;
+    border-right: 1px solid #FFFFFF;
+
+}
+
+.nav img{
+    height: 13px;
+    width: 13px;
+}
+
+.nav__element a{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header__info__contacts{
+    margin-left: 34px;
+}
+
+.header__info__contacts__telephone{
+    display: flex;
+    column-gap: 10px;
+}
+
+.header__info__contacts__telephone__number{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.header__info__contacts__description{
+    margin-left: 5px;
+    height: 38px;
+    width: 154px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.header__info__button{
+    height: 47px;
+    width: 157px;
+    margin-left: 45px;
+    border: none;
+    background-color: #FF7400;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.header__hide__menu{
+    display: none;
+}
+
+.header__content{
+    margin-top: 125px;
+    width: 556px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 12px;
+
+}
+
+.header__content h2{
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+}
+
+.header__content h1{
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+}
+
+.header__content p{
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__content p:before,
+.header__content p:after{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 61px;
+    background-color: #C4C4C4;
+}
+
+.header__content p:before{
+    margin-right: 10px;
+}
+
+.header__content p:after{
+    margin-left: 10px;
+}
+
+.header__content button{
+    width: 137px;
+    margin: 0;
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 31px;
+    position: absolute;
+    margin-top: 100px;
+}
+
+.about__block{
+    padding: 20px;
+    box-sizing: border-box;
+    width: 349px;
+    height: 328px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about__block img{
+    width: 126px;
+    height: 126px;
+}
+
+.about__block__title{
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+
+.about__block__title span{
+    color: #BC9060;
+}
+
+.about__block__description{
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+    margin-top: 25px;
+}
+
+.background{
+    height: 221px;
+    width: 1440px;
+    background-color: #E5E5E5;
+}
